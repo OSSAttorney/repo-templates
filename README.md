@@ -2,7 +2,7 @@
 
 > Microsoft's default repo templates
 
-The **official, default** template at Microsoft is the one called **mit**.  If you combine the
+The **official, default** template at Microsoft is the one called the **mit**.  If you combine the
 files in the `shared/` folder with the files in `projections/mit`, you get the standard, default
 set of files that new GitHub repos are placed with in the company.
 
@@ -26,7 +26,7 @@ These projects should be technology-agnostic.
 
 There are several `templates` Microsoft uses at this time, partly for historical
 reasons, and also because there are different legal entities - some projects are
-copyright Microsoft Corporation, while others are for the .NET Foundation.
+"Copyright (c) Microsoft Corporation", while others are for the .NET Foundation.
 
 The templates today are listed below. **The official, main, primary Microsoft template is called "mit"**:
 
@@ -45,8 +45,8 @@ product teams.
 ### dntmit.docs
 
 Repos that consist primarily of documentation content that are intended for .NET Foundation projects
-use this template. The template consists of a `LICENSE` covering docs, a `LICENSE-CODE` file covering
-any code samples, and the `README.md` file has some additional language about trademarks in a
+use this template. The template consists of a `LICENSE-CONTENT` covering docs, a `LICENSE` file covering
+any code and sample code, and the `README.md` file has some additional language about trademarks in a
 Legal Notices section.
 
 ### dnfmit
